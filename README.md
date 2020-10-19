@@ -1,5 +1,5 @@
 # Metis Project 04
-## Anti-Sentiment News Recommender
+## Balanced News Recommender
 
 ## Introduction
 We are living in an age where we have a wealth of information at our fingertips.
