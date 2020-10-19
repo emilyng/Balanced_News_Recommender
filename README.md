@@ -1,5 +1,7 @@
 # Balanced News Recommender
 
+![demo](news_rec_webapp2.gif)
+
 ## Introduction
 We are living in an age where we have a wealth of information at our fingertips.
 
@@ -46,3 +48,6 @@ A streamlit webapp is made from `news_recommender_app.py`.
 
 #### `sentimentAnalyzer.py`
 Includes different methods of analyzing sentiment of an article. 
+
+## T-SNE Visualization of Article Clusters
+![tsne_viz](tsne_viz.gif)
