@@ -1,5 +1,4 @@
-# Metis Project 04
-## Balanced News Recommender
+# Balanced News Recommender
 
 ## Introduction
 We are living in an age where we have a wealth of information at our fingertips.
@@ -9,7 +8,7 @@ Tech giants like Google and Facebook develop algorithms that help people find co
 
 This creates a filter bubble in which people are unable to understand and communicate with others of different beliefs, thereby hindering any positive change through compromise. This effect is most prominently seen in politics, where we see more of a divide between people and ideologies every day.
 
-Some companies that tackle filter bubbles are ![AllSides](https://www.allsides.com/unbiased-balanced-news) and ![FlipSide](https://www.theflipside.io/).
+Some companies that tackle filter bubbles are [AllSides](https://www.allsides.com/unbiased-balanced-news) and [FlipSide](https://www.theflipside.io/).
 
 AllSides calculates a media bias rating of  articles ranging from Left leaning to Right leaning.
 This media bias rating is calculated with a combination of editorial and independent reviews and having users participate in blind bias surveys.
@@ -21,7 +20,7 @@ Both methods are time consuming and labor intensive. Is there a way to make it e
 The goal of this project is to create a system that recommends articles of the opposite polarity to the one someone is already looking at.
 
 ## Data
-Data used for this project comes from ![Kaggle](https://www.kaggle.com/snapcrack/all-the-news).
+Data used for this project comes from [Kaggle](https://www.kaggle.com/snapcrack/all-the-news).
 
 ## Documentation
 This project contains work done in Jupyter Notebooks and .py files.
