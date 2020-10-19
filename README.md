@@ -26,7 +26,7 @@ Data used for this project comes from [Kaggle](https://www.kaggle.com/snapcrack/
 This project contains work done in Jupyter Notebooks and .py files.
 
 ### Notebooks
-Data taken from ![Kaggle](https://www.kaggle.com/snapcrack/all-the-news) is broken into 3 separate files. `News.ipynb` contains code that compiles all the data. The complete data includes articles written from years 2011 to 2018, but my project only takes in years 2015-2018 because of the lack of articles in years 2014 and before. `News.ipynb` also cleans and performs all preprocessing steps on the text data. This notebook also contains preliminary tests on different topic modeling techniques including LSA, NMF, and LDA.
+Data taken from [Kaggle](https://www.kaggle.com/snapcrack/all-the-news) is broken into 3 separate files. `News.ipynb` contains code that compiles all the data. The complete data includes articles written from years 2011 to 2018, but my project only takes in years 2015-2018 because of the lack of articles in years 2014 and before. `News.ipynb` also cleans and performs all preprocessing steps on the text data. This notebook also contains preliminary tests on different topic modeling techniques including LSA, NMF, and LDA.
 
 `News Topic Modeling.ipynb` contains code that performs topic modeling using LSA and clusters articles of the same topic/event using Agglomerative Clustering technique.
 
